@@ -31,3 +31,5 @@ git branch -m master main
 git status
 git remote add origin git@github.com:joseph-higaki/UDataEng_L03E02_OptimizeRedshiftTableDesign.git
 git push -u origin main
+
+test
